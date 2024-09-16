@@ -3,6 +3,10 @@ import click
 import csv
 import multiprocessing
 
+##Bog daj sreča, krava rdeča, zdej smo spremenil
+##Hec hec
+
+##A bomo kej jedl?
 
 ##Aa bo kdo kebab?
 
