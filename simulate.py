@@ -3,6 +3,8 @@ import click
 import csv
 import multiprocessing
 
+##Bog daj sreča, krava rdeča, zdej smo spremenil
+##Hec hec
 
 def read_data(input_file):
     with open(input_file) as f:
