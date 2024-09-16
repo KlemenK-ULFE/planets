@@ -4,6 +4,8 @@ import csv
 import multiprocessing
 
 
+##Aa bo kdo kebab?
+
 def read_data(input_file):
     with open(input_file) as f:
         reader = csv.reader(f)
